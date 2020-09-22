@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\bin\Debug\netcoreapp3.1\MultiplecationTable.exe
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\bin\Debug\netcoreapp3.1\MultiplecationTable.deps.json
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\bin\Debug\netcoreapp3.1\MultiplecationTable.runtimeconfig.json
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\bin\Debug\netcoreapp3.1\MultiplecationTable.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\bin\Debug\netcoreapp3.1\MultiplecationTable.dll
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\bin\Debug\netcoreapp3.1\MultiplecationTable.pdb
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\obj\Debug\netcoreapp3.1\MultiplecationTable.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\obj\Debug\netcoreapp3.1\MultiplecationTable.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\obj\Debug\netcoreapp3.1\MultiplecationTable.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\obj\Debug\netcoreapp3.1\MultiplecationTable.dll
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\obj\Debug\netcoreapp3.1\MultiplecationTable.pdb
+C:\Users\opilane\source\repos\ForLoops\MultiplecationTable\obj\Debug\netcoreapp3.1\MultiplecationTable.genruntimeconfig.cache
